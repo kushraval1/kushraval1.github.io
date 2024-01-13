@@ -9,7 +9,7 @@ render_with_liquid: false
 
 The connection between the integral and derivative is not always apparent, however insight can be gained through deriving one of the most important results of single-variable calculus: the first fundamental theorem of calculus. The theorem states that:
 
-$$\int_{a}^{b} f(x)\,dx = F(b) - F(a)$$
+$$ \int_{a}^{b} f(x)\,dx = F(b) - F(a) $$
 
 Where $$F$$ represents a function with derivative f, such that
 
