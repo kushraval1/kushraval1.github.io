@@ -5,6 +5,7 @@ date: 2024-01-12 10:59:00 -0500
 categories: [Mathematics, Calculus]
 tags: [derivative, integral, fundamental theorem of calculus]
 render_with_liquid: false
+math: true
 ---
 
 The connection between the integral and derivative is not always apparent, however insight can be gained through deriving one of the most important results of single-variable calculus: the first fundamental theorem of calculus. The theorem states that:
